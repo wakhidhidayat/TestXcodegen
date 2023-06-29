@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+*.xcscheme
+*.ipa
+*.xcarchive
+xcuserdata/
+DerivedData/
+TestXcodegen.xcodeproj
+TestXcodegen.xcodeproj/project.pbxproj
